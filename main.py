@@ -10,10 +10,10 @@ window.setup(800, 500)
 # set up clickable instance
 button = ClickableTurtle()
 
+
 #set up players
 player_1 = KeyboardTurtle(window)
-player_2 = KeyboardTurtle(window, "w", "d")
-
+player_2 = KeyboardTurtle(window, "w", "a", "d", "s")
 player_1.goto(100,0)
 
 # set target of other player(our collison check) to the opposite player
