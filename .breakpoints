@@ -1,5 +1,13 @@
 {
   "files": {
+    ".replit": [
+      {
+        "id": "83a79b50-5595-4226-9ca1-7b1c483ddddd",
+        "line": 2,
+        "version": 2,
+        "index": 21
+      }
+    ],
     "clickableturtle.py": [
       {
         "id": "85cb43cb-4976-42a9-96b9-4b9bde216275",
